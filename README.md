@@ -1,6 +1,7 @@
 ## Audio Sorter
 
-#### This script resolves the issue of losing audio file names.
+#### This script resolves the issue of losing audio filenames due to
+#### iTunes format incompatibilities.
 
 The script uses the metadata from MP3 and M4A files to:
 
